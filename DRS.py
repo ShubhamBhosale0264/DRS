@@ -4,9 +4,9 @@ import time
 import tkinter
 from functools import partial
 
-import cv2  
-import imutils  
-import PIL.Image  
+import cv2
+import imutils
+import PIL.Image
 import PIL.ImageTk
 
 stream = cv2.VideoCapture("clip.mp4")
